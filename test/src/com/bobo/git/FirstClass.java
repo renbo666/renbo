@@ -29,6 +29,7 @@ public class FirstClass {
 
         for (int i = 0; i < 1020; i++) {
             System.out.println(i);
+			int b=192388347;
         }
 
 
