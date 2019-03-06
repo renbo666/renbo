@@ -24,4 +24,13 @@ public class FirstClass {
 
 
     }
+
+    public void test122(){
+
+        for (int i = 0; i < 1020; i++) {
+            System.out.println(i);
+        }
+
+
+    }
 }
